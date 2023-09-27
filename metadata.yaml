@@ -1,0 +1,31 @@
+_repo: The-enemy_71637
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Richard
+    aliases:
+    - Wilson, Dick
+    - Halibut, Edward
+    birthdate: 1920
+    deathdate: 1987
+    gutenberg_agent_id: '34343'
+    url: http://www.gutenberg.org/2009/agents/34343
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
+description: ''
+gutenberg_issued: '2023-09-14'
+identifiers:
+  gutenberg: '71637'
+language: en
+pgterms:marc905: 20230820101107wilson
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The enemy
+url: http://www.gutenberg.org/ebooks/71637
